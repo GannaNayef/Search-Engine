@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>nada</Name>
+    <Password>nckfdnn</Password>
+    <categories />
+  </User>
+</ArrayOfUser><?xml version="1.0"?>
+<ArrayOfUser xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <User>
+    <Name>marwa</Name>
+    <Password>123</Password>
+    <categories />
+  </User>
+</ArrayOfUser>
